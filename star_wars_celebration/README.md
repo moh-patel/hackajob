@@ -23,7 +23,7 @@ int numberOfFilms
 5
 
 ## Useful Libraries
-HTTP Libraries PHP: curl
+* HTTP Libraries PHP: curl
 JavaScript: XMLHttpRequest - Example
 NodeJS: https - Example
 Python: urllib.request
