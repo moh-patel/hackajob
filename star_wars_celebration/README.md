@@ -24,9 +24,9 @@ int numberOfFilms
 
 ## Useful Libraries
 HTTP Libraries PHP: curl
-JavaScript: XMLHttpRequest - Example
-NodeJS: https - Example
-Python: urllib.request
+...JavaScript: XMLHttpRequest - Example
+...NodeJS: https - Example
+...Python: urllib.request
 Ruby: net/http
 C#: System.Net.Http - Example
 Java: java.net - Example
