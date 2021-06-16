@@ -23,7 +23,7 @@ int numberOfFilms
 5
 
 ## Useful Libraries
-###HTTP Libraries 
+### HTTP Libraries 
 * PHP: curl
 * JavaScript: XMLHttpRequest - Example
 * NodeJS: https - Example
@@ -35,7 +35,7 @@ int numberOfFilms
 * Scala: scala.io.Source - Example
 * Clojure: clj-http "3.8.0"
 
-###JSON Libraries
+### JSON Libraries
 * PHP: json_decode
 * JavaScript: JSON.parse
 * NodeJS: JSON.parse
