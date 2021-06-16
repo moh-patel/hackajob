@@ -23,30 +23,27 @@ int numberOfFilms
 5
 
 ## Useful Libraries
-* HTTP Libraries PHP: curl
-JavaScript: XMLHttpRequest - Example
-NodeJS: https - Example
-Python: urllib.request
-Ruby: net/http
-C#: System.Net.Http - Example
-Java: java.net - Example
-C++: curl/curl.h - Example
-Scala: scala.io.Source - Example
-Clojure: clj-http "3.8.0"
+###HTTP Libraries 
+* PHP: curl
+* JavaScript: XMLHttpRequest - Example
+* NodeJS: https - Example
+* Python: urllib.request
+* Ruby: net/http
+* C#: System.Net.Http - Example
+* Java: java.net - Example
+* C++: curl/curl.h - Example
+* Scala: scala.io.Source - Example
+* Clojure: clj-http "3.8.0"
 
-JSON Libraries
-PHP: json_decode
-JavaScript: JSON.parse
-NodeJS: JSON.parse
-Python: import json
-Ruby: require 'json'
-C#: json.net 11.0.1 - Example
-Java: gson 2.8.2 - Example
-C++: jsoncpp 1.8.4 (json/json.h) - Example
-Scala: play.api.libs.json 2.6.x - Example
-Clojure: org.clojure/data.json 0.2.6
+###JSON Libraries
+* PHP: json_decode
+* JavaScript: JSON.parse
+* NodeJS: JSON.parse
+* Python: import json
+* Ruby: require 'json'
+* C#: json.net 11.0.1 - Example
+* Java: gson 2.8.2 - Example
+* C++: jsoncpp 1.8.4 (json/json.h) - Example
+* Scala: play.api.libs.json 2.6.x - Example
+* Clojure: org.clojure/data.json 0.2.6
 
-
-Java 8
-main.java
-main.test.java (jUnit v4.12)
